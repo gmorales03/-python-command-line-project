@@ -1,1 +1,1 @@
-# -python-command-line-project
+# python-command-line-project
